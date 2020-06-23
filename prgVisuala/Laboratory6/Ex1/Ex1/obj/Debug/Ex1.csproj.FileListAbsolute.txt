@@ -1,0 +1,10 @@
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory6\Ex1\Ex1\bin\Debug\Ex1.exe.config
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory6\Ex1\Ex1\bin\Debug\Ex1.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory6\Ex1\Ex1\bin\Debug\Ex1.pdb
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory6\Ex1\Ex1\obj\Debug\Ex1.csprojAssemblyReference.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory6\Ex1\Ex1\obj\Debug\Ex1.Form1.resources
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory6\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory6\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory6\Ex1\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory6\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory6\Ex1\Ex1\obj\Debug\Ex1.pdb

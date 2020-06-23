@@ -1,0 +1,7 @@
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory3\exOne\exOne\obj\Debug\exOne.csprojAssemblyReference.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory3\exOne\exOne\obj\Debug\exOne.csproj.CoreCompileInputs.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory3\exOne\exOne\bin\Debug\exOne.exe.config
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory3\exOne\exOne\bin\Debug\exOne.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory3\exOne\exOne\bin\Debug\exOne.pdb
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory3\exOne\exOne\obj\Debug\exOne.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory3\exOne\exOne\obj\Debug\exOne.pdb

@@ -1,0 +1,9 @@
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFive\exFive\bin\Debug\exFive.exe.config
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFive\exFive\bin\Debug\exFive.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFive\exFive\bin\Debug\exFive.pdb
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFive\exFive\obj\Debug\exFive.Form1.resources
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFive\exFive\obj\Debug\exFive.Properties.Resources.resources
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFive\exFive\obj\Debug\exFive.csproj.GenerateResource.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFive\exFive\obj\Debug\exFive.csproj.CoreCompileInputs.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFive\exFive\obj\Debug\exFive.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFive\exFive\obj\Debug\exFive.pdb

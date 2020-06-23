@@ -1,0 +1,10 @@
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\Ex10\Ex10\bin\Debug\Ex10.exe.config
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\Ex10\Ex10\bin\Debug\Ex10.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\Ex10\Ex10\bin\Debug\Ex10.pdb
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\Ex10\Ex10\obj\Debug\Ex10.csprojAssemblyReference.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\Ex10\Ex10\obj\Debug\Ex10.Form1.resources
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\Ex10\Ex10\obj\Debug\Ex10.Properties.Resources.resources
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\Ex10\Ex10\obj\Debug\Ex10.csproj.GenerateResource.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\Ex10\Ex10\obj\Debug\Ex10.csproj.CoreCompileInputs.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\Ex10\Ex10\obj\Debug\Ex10.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\Ex10\Ex10\obj\Debug\Ex10.pdb

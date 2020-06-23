@@ -1,0 +1,7 @@
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Lab1B\Lab1B\bin\Debug\Lab1B.exe.config
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Lab1B\Lab1B\bin\Debug\Lab1B.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Lab1B\Lab1B\bin\Debug\Lab1B.pdb
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Lab1B\Lab1B\obj\Debug\Lab1B.csprojAssemblyReference.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Lab1B\Lab1B\obj\Debug\Lab1B.csproj.CoreCompileInputs.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Lab1B\Lab1B\obj\Debug\Lab1B.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Lab1B\Lab1B\obj\Debug\Lab1B.pdb

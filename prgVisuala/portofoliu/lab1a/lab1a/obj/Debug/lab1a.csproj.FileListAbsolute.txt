@@ -1,0 +1,7 @@
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab1a\lab1a\bin\Debug\lab1a.exe.config
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab1a\lab1a\bin\Debug\lab1a.exe
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab1a\lab1a\bin\Debug\lab1a.pdb
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab1a\lab1a\obj\Debug\lab1a.csprojAssemblyReference.cache
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab1a\lab1a\obj\Debug\lab1a.csproj.CoreCompileInputs.cache
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab1a\lab1a\obj\Debug\lab1a.exe
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab1a\lab1a\obj\Debug\lab1a.pdb

@@ -1,0 +1,9 @@
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exThree\exThree\bin\Debug\exThree.exe.config
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exThree\exThree\bin\Debug\exThree.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exThree\exThree\bin\Debug\exThree.pdb
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exThree\exThree\obj\Debug\exThree.Properties.Resources.resources
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exThree\exThree\obj\Debug\exThree.csproj.GenerateResource.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exThree\exThree\obj\Debug\exThree.csproj.CoreCompileInputs.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exThree\exThree\obj\Debug\exThree.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exThree\exThree\obj\Debug\exThree.pdb
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exThree\exThree\obj\Debug\exThree.Form1.resources

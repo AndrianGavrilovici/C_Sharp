@@ -1,0 +1,9 @@
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex1_b\ex1_b\bin\Debug\ex1_b.exe.config
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex1_b\ex1_b\bin\Debug\ex1_b.exe
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex1_b\ex1_b\bin\Debug\ex1_b.pdb
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex1_b\ex1_b\obj\Debug\ex1_b.Form1.resources
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex1_b\ex1_b\obj\Debug\ex1_b.Properties.Resources.resources
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex1_b\ex1_b\obj\Debug\ex1_b.csproj.GenerateResource.cache
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex1_b\ex1_b\obj\Debug\ex1_b.csproj.CoreCompileInputs.cache
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex1_b\ex1_b\obj\Debug\ex1_b.exe
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex1_b\ex1_b\obj\Debug\ex1_b.pdb

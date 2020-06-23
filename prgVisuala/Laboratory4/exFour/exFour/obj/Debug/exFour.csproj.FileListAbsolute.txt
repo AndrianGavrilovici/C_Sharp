@@ -1,0 +1,9 @@
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFour\exFour\bin\Debug\exFour.exe.config
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFour\exFour\bin\Debug\exFour.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFour\exFour\bin\Debug\exFour.pdb
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFour\exFour\obj\Debug\exFour.Form1.resources
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFour\exFour\obj\Debug\exFour.Properties.Resources.resources
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFour\exFour\obj\Debug\exFour.csproj.GenerateResource.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFour\exFour\obj\Debug\exFour.csproj.CoreCompileInputs.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFour\exFour\obj\Debug\exFour.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exFour\exFour\obj\Debug\exFour.pdb

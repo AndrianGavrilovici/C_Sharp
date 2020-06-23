@@ -1,0 +1,14 @@
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\testex\testex\bin\Debug\testex.exe.config
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\testex\testex\bin\Debug\testex.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\testex\testex\bin\Debug\testex.pdb
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\testex\testex\obj\Debug\testex.csprojAssemblyReference.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\testex\testex\obj\Debug\testex.csproj.CoreCompileInputs.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\testex\testex\obj\Debug\testex.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\testex\testex\obj\Debug\testex.pdb
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory3\testex\testex\bin\Debug\testex.exe.config
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory3\testex\testex\bin\Debug\testex.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory3\testex\testex\bin\Debug\testex.pdb
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory3\testex\testex\obj\Debug\testex.csprojAssemblyReference.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory3\testex\testex\obj\Debug\testex.csproj.CoreCompileInputs.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory3\testex\testex\obj\Debug\testex.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory3\testex\testex\obj\Debug\testex.pdb

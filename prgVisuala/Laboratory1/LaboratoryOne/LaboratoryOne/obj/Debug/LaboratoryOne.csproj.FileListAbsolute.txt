@@ -1,0 +1,7 @@
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\LaboratoryOne\LaboratoryOne\bin\Debug\LaboratoryOne.exe.config
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\LaboratoryOne\LaboratoryOne\bin\Debug\LaboratoryOne.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\LaboratoryOne\LaboratoryOne\bin\Debug\LaboratoryOne.pdb
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\LaboratoryOne\LaboratoryOne\obj\Debug\LaboratoryOne.csprojAssemblyReference.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\LaboratoryOne\LaboratoryOne\obj\Debug\LaboratoryOne.csproj.CoreCompileInputs.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\LaboratoryOne\LaboratoryOne\obj\Debug\LaboratoryOne.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\LaboratoryOne\LaboratoryOne\obj\Debug\LaboratoryOne.pdb

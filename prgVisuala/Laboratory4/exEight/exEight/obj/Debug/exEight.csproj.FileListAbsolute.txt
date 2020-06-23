@@ -1,0 +1,9 @@
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exEight\exEight\obj\Debug\exEight.Form1.resources
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exEight\exEight\obj\Debug\exEight.Properties.Resources.resources
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exEight\exEight\obj\Debug\exEight.csproj.GenerateResource.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exEight\exEight\obj\Debug\exEight.csproj.CoreCompileInputs.cache
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exEight\exEight\bin\Debug\exEight.exe.config
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exEight\exEight\bin\Debug\exEight.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exEight\exEight\bin\Debug\exEight.pdb
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exEight\exEight\obj\Debug\exEight.exe
+C:\Users\TWETTY\Programming\C_Sharp\prgVisuala\Laboratory4\exEight\exEight\obj\Debug\exEight.pdb

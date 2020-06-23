@@ -1,0 +1,10 @@
+D:\Programmig\C_Sharp\prgVisuala\Laboratory10\ex2_d\ex2_d\bin\Debug\ex2_d.exe.config
+D:\Programmig\C_Sharp\prgVisuala\Laboratory10\ex2_d\ex2_d\bin\Debug\ex2_d.exe
+D:\Programmig\C_Sharp\prgVisuala\Laboratory10\ex2_d\ex2_d\bin\Debug\ex2_d.pdb
+D:\Programmig\C_Sharp\prgVisuala\Laboratory10\ex2_d\ex2_d\obj\Debug\ex2_d.csprojAssemblyReference.cache
+D:\Programmig\C_Sharp\prgVisuala\Laboratory10\ex2_d\ex2_d\obj\Debug\ex2_d.Form1.resources
+D:\Programmig\C_Sharp\prgVisuala\Laboratory10\ex2_d\ex2_d\obj\Debug\ex2_d.Properties.Resources.resources
+D:\Programmig\C_Sharp\prgVisuala\Laboratory10\ex2_d\ex2_d\obj\Debug\ex2_d.csproj.GenerateResource.cache
+D:\Programmig\C_Sharp\prgVisuala\Laboratory10\ex2_d\ex2_d\obj\Debug\ex2_d.csproj.CoreCompileInputs.cache
+D:\Programmig\C_Sharp\prgVisuala\Laboratory10\ex2_d\ex2_d\obj\Debug\ex2_d.exe
+D:\Programmig\C_Sharp\prgVisuala\Laboratory10\ex2_d\ex2_d\obj\Debug\ex2_d.pdb

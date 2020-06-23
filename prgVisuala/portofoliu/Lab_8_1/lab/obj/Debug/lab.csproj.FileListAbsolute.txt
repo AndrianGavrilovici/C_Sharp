@@ -1,0 +1,10 @@
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab\lab\obj\Debug\lab.csprojAssemblyReference.cache
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab\lab\obj\Debug\lab.Properties.Resources.resources
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab\lab\obj\Debug\lab.csproj.GenerateResource.cache
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab\lab\obj\Debug\lab.csproj.CoreCompileInputs.cache
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab\lab\bin\Debug\lab.exe.config
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab\lab\bin\Debug\lab.exe
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab\lab\bin\Debug\lab.pdb
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab\lab\obj\Debug\lab.exe
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab\lab\obj\Debug\lab.pdb
+D:\Programmig\C_Sharp\prgVisuala\portofoliu\lab\lab\obj\Debug\Ex1.Form1.resources

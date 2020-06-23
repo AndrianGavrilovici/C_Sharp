@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\Gavrilovici C#\ex10p45\ex10p45\bin\Debug\ex10p45.exe
+C:\Users\Student\Desktop\Gavrilovici C#\ex10p45\ex10p45\bin\Debug\ex10p45.pdb
+C:\Users\Student\Desktop\Gavrilovici C#\ex10p45\ex10p45\obj\x86\Debug\ex10p45.Form1.resources
+C:\Users\Student\Desktop\Gavrilovici C#\ex10p45\ex10p45\obj\x86\Debug\ex10p45.Properties.Resources.resources
+C:\Users\Student\Desktop\Gavrilovici C#\ex10p45\ex10p45\obj\x86\Debug\ex10p45.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Gavrilovici C#\ex10p45\ex10p45\obj\x86\Debug\ex10p45.exe
+C:\Users\Student\Desktop\Gavrilovici C#\ex10p45\ex10p45\obj\x86\Debug\ex10p45.pdb

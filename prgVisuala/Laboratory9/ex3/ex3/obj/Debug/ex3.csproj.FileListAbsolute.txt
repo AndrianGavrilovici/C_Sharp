@@ -1,0 +1,10 @@
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex3\ex3\bin\Debug\ex3.exe.config
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex3\ex3\bin\Debug\ex3.exe
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex3\ex3\bin\Debug\ex3.pdb
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex3\ex3\obj\Debug\ex3.csprojAssemblyReference.cache
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex3\ex3\obj\Debug\ex3.Form1.resources
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex3\ex3\obj\Debug\ex3.Properties.Resources.resources
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex3\ex3\obj\Debug\ex3.csproj.GenerateResource.cache
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex3\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex3\ex3\obj\Debug\ex3.exe
+D:\Programmig\C_Sharp\prgVisuala\Laboratory9\ex3\ex3\obj\Debug\ex3.pdb
